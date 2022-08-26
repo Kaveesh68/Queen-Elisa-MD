@@ -33,8 +33,9 @@ global.APIKeys = {
 
 //other
 global.owner = ['94706352627'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94713257140'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94713257140'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pemilik = ['94786959420'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94786959420
+		  '] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = 'Ƙίηɡ Ƙαѵίψα' // Your name ඔබේ නම 
 global.botnma = '💃Ƙίηɡ Ƙαѵίψα ɓσt💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
 global.ownernma = 'Ƙίηɡ Ƙαѵίψα' //ownernama,ownername
@@ -43,19 +44,19 @@ global.author = 'Ƙίηɡ Ƙαѵίψα' // Sticker Autor name
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
-// Alive massage. `ΝᎪᎷᎬ:  
+// Alive massage. `   
 
-░▒▓█🅺🅰🆅🅴🅴🆂🅷 🅰🅰🅳🅸🆃🅷🆈🅰█▓▒░ 
 
-ᎪᏀᎬ :14 🍃
 
-ҒᎡϴᎷ :ᎷϴΝᎪᎡᎪᏀᎪᏞᎪ
 
- ᏴϴͲ ΝᎪᎷᎬ :ᏴᏞᎪᏟᏦ ᏴϴͲ 🤖
+ 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 I m Ƙίηɡ Ƙαѵίψα
 
-ϘႮᎬᎬΝ ᎪᎷᎠᏆ ᏴϴͲ ᏟϴᎷᎷᎪΝᎠ ᏞᏆՏͲ : .menu 📜
 
-𝙎𝙚𝙧𝙫𝙞𝙘𝙚𝙨 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙜𝙚𝙩 𝙛𝙧𝙤𝙢 Ƙίηɡ Ƙαѵίψα ɓσt
+ ᏴϴͲ ΝᎪᎷᎬ :𝙌𝙪𝙚𝙚𝙣 𝙀𝙡𝙞𝙨𝙖🤖
+
+𝙌𝙪𝙚𝙚𝙣 𝙀𝙡𝙞𝙨𝙖 ᏴϴͲ ᏟϴᎷᎷᎪΝᎠ ᏞᏆՏͲ : .menu 📜
+
+𝙎𝙚𝙧𝙫𝙞𝙘𝙚𝙨 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙜𝙚𝙩 𝙛𝙧𝙤𝙢 𝙌𝙪𝙚𝙚𝙣 𝙀𝙡𝙞𝙨𝙖 ɓσt
 
 📌𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐯𝐢𝐝𝐞𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠 
 
@@ -65,9 +66,9 @@ global.sp = '🔵'
 
 𝐀𝐧𝐝 𝐦𝐮𝐜𝐡 𝐦𝐨𝐫𝐞 😌
 
-*ͲᎻᎪΝᏦ ᎽϴႮ ҒϴᎡ Ƙίηɡ Ƙαѵίψα ɓσt
+*ͲᎻᎪΝᏦ ᎽϴႮ ҒϴᎡ Ƙίηɡ Ƙαѵίψα ɓσt `
 
- ☺️, ඔබේ බොගේ alive massage  එක මෙහි ඇති `මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
+ , ඔබේ බොගේ alive massage  එක මෙහි ඇති මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
 global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jjp `
 global.alive =`Hello i am alive now
 
